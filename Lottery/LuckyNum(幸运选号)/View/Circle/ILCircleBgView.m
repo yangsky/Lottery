@@ -6,7 +6,7 @@
 //  Copyright (c) 2013年 itcast. All rights reserved.
 //
 
-//const int ILCircleWH = 286
+const int ILCircleWH = 286
 
 #import "ILCircleBgView.h"
 #include "LCircleItemView.h"
